@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1732" viewBox="0 0 1600 1732" role="img" aria-labelledby="t d">
+<title id="t">The microscope refocused at every device</title>
+<desc id="d">Autofocus height map for the 18 September 2026 screening run. Each of 48 device positions in a 7 by 7 grid is coloured by the stage z the autofocus selected, relative to the median of all devices, on a single-hue scale from -12 to +12 micrometres. The selected heights span 22 micrometres across device positions spanning 3.8 mm. When 25 devices were refocused on a second pass 1.7 to 4.7 hours later, 20 came back within 1 micrometre (one stage step); one recovered device differed by 11 micrometres.</desc>
+<rect width="1600" height="1732" fill="#ffffff"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<text x="72.0" y="152.0" font-size="92" font-weight="700" fill="#152a35" text-anchor="start">The microscope refocused</text>
+<text x="72.0" y="260.0" font-size="92" font-weight="700" fill="#152a35" text-anchor="start">at every device</text>
+<text x="72.0" y="338.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">Stage height chosen by autofocus at each of 48 devices, 18 September overnight run</text>
+<text x="72.0" y="508.0" font-size="120" font-weight="700" fill="#152a35" text-anchor="start">22 µm</text>
+<text x="72.0" y="562.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">spread of focus heights</text>
+<text x="72.0" y="608.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">over 3.8 mm of the chip</text>
+<text x="800.0" y="508.0" font-size="120" font-weight="700" fill="#152a35" text-anchor="start">≤1 µm</text>
+<text x="800.0" y="562.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">change for 20 of 25 devices</text>
+<text x="800.0" y="608.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">refocused on a second pass</text>
+<path d="M72 648 H1528" stroke="#dce3e6" stroke-width="2"/>
+<rect x="72" y="712" width="92" height="92" rx="8" fill="#3d9993"/>
+<rect x="180" y="712" width="92" height="92" rx="8" fill="#62b2ac"/>
+<rect x="288" y="712" width="92" height="92" rx="8" fill="#74bfb9"/>
+<text x="334.0" y="768.0" font-size="30" font-weight="700" fill="#152a35" text-anchor="middle">−11.5</text>
+<rect x="396" y="712" width="92" height="92" rx="8" fill="#298c86"/>
+<rect x="504" y="712" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="612" y="712" width="92" height="92" rx="8" fill="#177f79"/>
+<rect x="720" y="712" width="92" height="92" rx="8" fill="#208680"/>
+<rect x="72" y="820" width="92" height="92" rx="8" fill="#177f79"/>
+<rect x="180" y="820" width="92" height="92" rx="8" fill="#046b66"/>
+<rect x="288" y="820" width="92" height="92" rx="8" fill="#046b66"/>
+<rect x="396" y="820" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="504" y="820" width="92" height="92" rx="8" fill="#3d9993"/>
+<rect x="612" y="820" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="720" y="820" width="92" height="92" rx="8" fill="#177f79"/>
+<rect x="72" y="928" width="92" height="92" rx="8" fill="#04726d"/>
+<rect x="180" y="928" width="92" height="92" rx="8" fill="#05514d"/>
+<rect x="288" y="928" width="92" height="92" rx="8" fill="#208680"/>
+<rect x="396" y="928" width="92" height="92" rx="8" fill="#298c86"/>
+<rect x="504" y="928" width="92" height="92" rx="8" fill="#055753"/>
+<rect x="612" y="928" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="720" y="928" width="92" height="92" rx="8" fill="#046b66"/>
+<rect x="72" y="1036" width="92" height="92" rx="8" fill="#034441"/>
+<rect x="180" y="1036" width="92" height="92" rx="8" fill="#045e5a"/>
+<rect x="288" y="1036" width="92" height="92" rx="8" fill="#208680"/>
+<rect x="396" y="1036" width="92" height="92" rx="8" fill="#62b2ac"/>
+<rect x="504" y="1036" width="92" height="92" rx="8" fill="#3d9993"/>
+<rect x="612" y="1036" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="720" y="1036" width="92" height="92" rx="8" fill="#046460"/>
+<rect x="72" y="1144" width="92" height="92" rx="8" fill="#023e3b"/>
+<rect x="180" y="1144" width="92" height="92" rx="8" fill="#208680"/>
+<rect x="288" y="1144" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="396" y="1144" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="504" y="1144" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="612" y="1144" width="92" height="92" rx="8" fill="#055753"/>
+<rect x="720" y="1144" width="92" height="92" rx="8" fill="#01322f"/>
+<text x="766.0" y="1200.0" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">+10.5</text>
+<rect x="72" y="1252" width="92" height="92" rx="8" fill="#034441"/>
+<rect x="180" y="1252" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="288" y="1252" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="396" y="1252" width="92" height="92" rx="8" fill="#0b7973"/>
+<rect x="504" y="1252" width="92" height="92" rx="8" fill="#046460"/>
+<rect x="612" y="1252" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="720" y="1252" width="92" height="92" rx="8" fill="#044b47"/>
+<rect x="72" y="1360" width="92" height="92" rx="8" fill="#045e5a"/>
+<rect x="180" y="1360" width="92" height="92" rx="8" fill="#023e3b"/>
+<rect x="288" y="1360" width="92" height="92" rx="8" fill="#177f79"/>
+<rect x="396" y="1360" width="92" height="92" rx="8" fill="#04726d"/>
+<rect x="504" y="1360" width="92" height="92" rx="8" fill="#023e3b"/>
+<rect x="612" y="1360" width="92" height="92" rx="8" fill="#177f79"/>
+<rect x="720" y="1360" width="92" height="92" rx="8" fill="#ffffff" stroke="#dce3e6" stroke-width="3"/>
+<rect x="884" y="712.00" width="44" height="6.77" fill="#002927"/>
+<rect x="884" y="718.17" width="44" height="6.77" fill="#002a28"/>
+<rect x="884" y="724.33" width="44" height="6.77" fill="#002b29"/>
+<rect x="884" y="730.50" width="44" height="6.77" fill="#002d2a"/>
+<rect x="884" y="736.67" width="44" height="6.77" fill="#002e2b"/>
+<rect x="884" y="742.83" width="44" height="6.77" fill="#002f2d"/>
+<rect x="884" y="749.00" width="44" height="6.77" fill="#01302e"/>
+<rect x="884" y="755.17" width="44" height="6.77" fill="#01312f"/>
+<rect x="884" y="761.33" width="44" height="6.77" fill="#013230"/>
+<rect x="884" y="767.50" width="44" height="6.77" fill="#013431"/>
+<rect x="884" y="773.67" width="44" height="6.77" fill="#013532"/>
+<rect x="884" y="779.83" width="44" height="6.77" fill="#013633"/>
+<rect x="884" y="786.00" width="44" height="6.77" fill="#013735"/>
+<rect x="884" y="792.17" width="44" height="6.77" fill="#023936"/>
+<rect x="884" y="798.33" width="44" height="6.77" fill="#023a37"/>
+<rect x="884" y="804.50" width="44" height="6.77" fill="#023b38"/>
+<rect x="884" y="810.67" width="44" height="6.77" fill="#023c39"/>
+<rect x="884" y="816.83" width="44" height="6.77" fill="#023d3a"/>
+<rect x="884" y="823.00" width="44" height="6.77" fill="#023f3c"/>
+<rect x="884" y="829.17" width="44" height="6.77" fill="#03403d"/>
+<rect x="884" y="835.33" width="44" height="6.77" fill="#03413e"/>
+<rect x="884" y="841.50" width="44" height="6.77" fill="#03423f"/>
+<rect x="884" y="847.67" width="44" height="6.77" fill="#034440"/>
+<rect x="884" y="853.83" width="44" height="6.77" fill="#034541"/>
+<rect x="884" y="860.00" width="44" height="6.77" fill="#044643"/>
+<rect x="884" y="866.17" width="44" height="6.77" fill="#044844"/>
+<rect x="884" y="872.33" width="44" height="6.77" fill="#044945"/>
+<rect x="884" y="878.50" width="44" height="6.77" fill="#044a46"/>
+<rect x="884" y="884.67" width="44" height="6.77" fill="#054b48"/>
+<rect x="884" y="890.83" width="44" height="6.77" fill="#054d49"/>
+<rect x="884" y="897.00" width="44" height="6.77" fill="#054e4a"/>
+<rect x="884" y="903.17" width="44" height="6.77" fill="#054f4b"/>
+<rect x="884" y="909.33" width="44" height="6.77" fill="#05504c"/>
+<rect x="884" y="915.50" width="44" height="6.77" fill="#05524e"/>
+<rect x="884" y="921.67" width="44" height="6.77" fill="#05534f"/>
+<rect x="884" y="927.83" width="44" height="6.77" fill="#055450"/>
+<rect x="884" y="934.00" width="44" height="6.77" fill="#055652"/>
+<rect x="884" y="940.17" width="44" height="6.77" fill="#055753"/>
+<rect x="884" y="946.33" width="44" height="6.77" fill="#055854"/>
+<rect x="884" y="952.50" width="44" height="6.77" fill="#055955"/>
+<rect x="884" y="958.67" width="44" height="6.77" fill="#045b57"/>
+<rect x="884" y="964.83" width="44" height="6.77" fill="#045c58"/>
+<rect x="884" y="971.00" width="44" height="6.77" fill="#045d59"/>
+<rect x="884" y="977.17" width="44" height="6.77" fill="#045e5a"/>
+<rect x="884" y="983.33" width="44" height="6.77" fill="#04605c"/>
+<rect x="884" y="989.50" width="44" height="6.77" fill="#04615d"/>
+<rect x="884" y="995.67" width="44" height="6.77" fill="#04625e"/>
+<rect x="884" y="1001.83" width="44" height="6.77" fill="#04645f"/>
+<rect x="884" y="1008.00" width="44" height="6.77" fill="#046561"/>
+<rect x="884" y="1014.17" width="44" height="6.77" fill="#046762"/>
+<rect x="884" y="1020.33" width="44" height="6.77" fill="#046863"/>
+<rect x="884" y="1026.50" width="44" height="6.77" fill="#046965"/>
+<rect x="884" y="1032.67" width="44" height="6.77" fill="#046b66"/>
+<rect x="884" y="1038.83" width="44" height="6.77" fill="#046c67"/>
+<rect x="884" y="1045.00" width="44" height="6.77" fill="#046e68"/>
+<rect x="884" y="1051.17" width="44" height="6.77" fill="#046f6a"/>
+<rect x="884" y="1057.33" width="44" height="6.77" fill="#04706b"/>
+<rect x="884" y="1063.50" width="44" height="6.77" fill="#04726c"/>
+<rect x="884" y="1069.67" width="44" height="6.77" fill="#04736d"/>
+<rect x="884" y="1075.83" width="44" height="6.77" fill="#04756f"/>
+<rect x="884" y="1082.00" width="44" height="6.77" fill="#047670"/>
+<rect x="884" y="1088.17" width="44" height="6.77" fill="#077771"/>
+<rect x="884" y="1094.33" width="44" height="6.77" fill="#0a7973"/>
+<rect x="884" y="1100.50" width="44" height="6.77" fill="#0d7a74"/>
+<rect x="884" y="1106.67" width="44" height="6.77" fill="#0f7b75"/>
+<rect x="884" y="1112.83" width="44" height="6.77" fill="#127c76"/>
+<rect x="884" y="1119.00" width="44" height="6.77" fill="#147e78"/>
+<rect x="884" y="1125.17" width="44" height="6.77" fill="#167f79"/>
+<rect x="884" y="1131.33" width="44" height="6.77" fill="#18807a"/>
+<rect x="884" y="1137.50" width="44" height="6.77" fill="#1a817b"/>
+<rect x="884" y="1143.67" width="44" height="6.77" fill="#1c837d"/>
+<rect x="884" y="1149.83" width="44" height="6.77" fill="#1d847e"/>
+<rect x="884" y="1156.00" width="44" height="6.77" fill="#1f857f"/>
+<rect x="884" y="1162.17" width="44" height="6.77" fill="#218680"/>
+<rect x="884" y="1168.33" width="44" height="6.77" fill="#228882"/>
+<rect x="884" y="1174.50" width="44" height="6.77" fill="#248983"/>
+<rect x="884" y="1180.67" width="44" height="6.77" fill="#268a84"/>
+<rect x="884" y="1186.83" width="44" height="6.77" fill="#288c86"/>
+<rect x="884" y="1193.00" width="44" height="6.77" fill="#2b8d87"/>
+<rect x="884" y="1199.17" width="44" height="6.77" fill="#2d8e88"/>
+<rect x="884" y="1205.33" width="44" height="6.77" fill="#2f8f89"/>
+<rect x="884" y="1211.50" width="44" height="6.77" fill="#31918b"/>
+<rect x="884" y="1217.67" width="44" height="6.77" fill="#32928c"/>
+<rect x="884" y="1223.83" width="44" height="6.77" fill="#34938d"/>
+<rect x="884" y="1230.00" width="44" height="6.77" fill="#36948e"/>
+<rect x="884" y="1236.17" width="44" height="6.77" fill="#389690"/>
+<rect x="884" y="1242.33" width="44" height="6.77" fill="#3a9791"/>
+<rect x="884" y="1248.50" width="44" height="6.77" fill="#3c9892"/>
+<rect x="884" y="1254.67" width="44" height="6.77" fill="#3d9993"/>
+<rect x="884" y="1260.83" width="44" height="6.77" fill="#3f9b95"/>
+<rect x="884" y="1267.00" width="44" height="6.77" fill="#419c96"/>
+<rect x="884" y="1273.17" width="44" height="6.77" fill="#439d97"/>
+<rect x="884" y="1279.33" width="44" height="6.77" fill="#459f99"/>
+<rect x="884" y="1285.50" width="44" height="6.77" fill="#47a09a"/>
+<rect x="884" y="1291.67" width="44" height="6.77" fill="#49a19b"/>
+<rect x="884" y="1297.83" width="44" height="6.77" fill="#4ba29c"/>
+<rect x="884" y="1304.00" width="44" height="6.77" fill="#4da49e"/>
+<rect x="884" y="1310.17" width="44" height="6.77" fill="#4ea59f"/>
+<rect x="884" y="1316.33" width="44" height="6.77" fill="#50a6a0"/>
+<rect x="884" y="1322.50" width="44" height="6.77" fill="#52a7a1"/>
+<rect x="884" y="1328.67" width="44" height="6.77" fill="#54a9a3"/>
+<rect x="884" y="1334.83" width="44" height="6.77" fill="#56aaa4"/>
+<rect x="884" y="1341.00" width="44" height="6.77" fill="#58aba5"/>
+<rect x="884" y="1347.17" width="44" height="6.77" fill="#59aca6"/>
+<rect x="884" y="1353.33" width="44" height="6.77" fill="#5baea8"/>
+<rect x="884" y="1359.50" width="44" height="6.77" fill="#5dafa9"/>
+<rect x="884" y="1365.67" width="44" height="6.77" fill="#5fb0aa"/>
+<rect x="884" y="1371.83" width="44" height="6.77" fill="#61b2ac"/>
+<rect x="884" y="1378.00" width="44" height="6.77" fill="#63b3ad"/>
+<rect x="884" y="1384.17" width="44" height="6.77" fill="#65b4ae"/>
+<rect x="884" y="1390.33" width="44" height="6.77" fill="#66b5af"/>
+<rect x="884" y="1396.50" width="44" height="6.77" fill="#68b7b1"/>
+<rect x="884" y="1402.67" width="44" height="6.77" fill="#6ab8b2"/>
+<rect x="884" y="1408.83" width="44" height="6.77" fill="#6cb9b3"/>
+<rect x="884" y="1415.00" width="44" height="6.77" fill="#6ebab4"/>
+<rect x="884" y="1421.17" width="44" height="6.77" fill="#70bcb6"/>
+<rect x="884" y="1427.33" width="44" height="6.77" fill="#72bdb7"/>
+<rect x="884" y="1433.50" width="44" height="6.77" fill="#74beb8"/>
+<rect x="884" y="1439.67" width="44" height="6.77" fill="#75bfb9"/>
+<rect x="884" y="1445.83" width="44" height="6.77" fill="#77c1bb"/>
+<path d="M928 1390.3 H942" stroke="#152a35" stroke-width="2"/>
+<text x="952.0" y="1403.3" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">−10</text>
+<path d="M928 1236.2 H942" stroke="#152a35" stroke-width="2"/>
+<text x="952.0" y="1249.2" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">−5</text>
+<path d="M928 1082.0 H942" stroke="#152a35" stroke-width="2"/>
+<text x="952.0" y="1095.0" font-size="36" font-weight="700" fill="#152a35" text-anchor="start">0</text>
+<path d="M928 927.8 H942" stroke="#152a35" stroke-width="2"/>
+<text x="952.0" y="940.8" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">+5</text>
+<path d="M928 773.7 H942" stroke="#152a35" stroke-width="2"/>
+<text x="952.0" y="786.7" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">+10</text>
+<text x="986.0" y="1094.0" font-size="30" font-weight="400" fill="#526572" text-anchor="start">median</text>
+<text x="884.0" y="686.0" font-size="34" font-weight="700" fill="#152a35" text-anchor="start">Stage z vs chip median, µm</text>
+<text x="1112.0" y="746.0" font-size="34" font-weight="700" fill="#152a35" text-anchor="start">Darker:</text>
+<text x="1112.0" y="788.0" font-size="34" font-weight="400" fill="#526572" text-anchor="start">higher stage z</text>
+<text x="1112.0" y="1402.0" font-size="34" font-weight="700" fill="#152a35" text-anchor="start">Lighter:</text>
+<text x="1112.0" y="1444.0" font-size="34" font-weight="400" fill="#526572" text-anchor="start">lower stage z</text>
+<rect x="1112" y="1142.0" width="40" height="40" rx="6" fill="#ffffff" stroke="#dce3e6" stroke-width="3"/>
+<text x="1166.0" y="1174.0" font-size="32" font-weight="400" fill="#526572" text-anchor="start">No device</text>
+<text x="72.0" y="1532.0" font-size="28" font-weight="400" fill="#526572" text-anchor="start">Each square is one device, in its row and column on the chip. Autofocus z is the recorded stage position</text>
+<text x="72.0" y="1572.0" font-size="28" font-weight="400" fill="#526572" text-anchor="start">(1 µm per step), relative to the median of all 48. A second pass refocused 25 of these devices</text>
+<text x="72.0" y="1612.0" font-size="28" font-weight="400" fill="#526572" text-anchor="start">1.7–4.7 h later from new start heights; one recovered device moved 11 µm (possibly two focus peaks).</text>
+<text x="72.0" y="1652.0" font-size="28" font-weight="400" fill="#526572" text-anchor="start">Stage position at best focus, not a calibrated surface-height measurement.</text>
+</g>
+</svg>

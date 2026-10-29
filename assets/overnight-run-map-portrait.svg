@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1812" viewBox="0 0 1600 1812" role="img" aria-labelledby="t d">
+<title id="t">48 devices, 3 failures, all recovered by the agent</title>
+<desc id="d">Operations map of one overnight device-screening run on 18 September 2026 (JST). A 7 by 7 grid of device positions: 45 devices completed without a device failure, 3 failed and were recovered by the resident agent, 1 position has no device. 240 images were accepted, 5 per device. The highlighted device failed with an image-save error at 02:42; the agent repaired the software and the device's five images were complete at 02:59. The 19 devices measured before it kept unchanged records. A timeline shows each device finishing between 00:41 and 05:19 JST.</desc>
+<rect width="1600" height="1812" fill="#ffffff"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<text x="72.0" y="152.0" font-size="92" font-weight="700" fill="#152a35" text-anchor="start">48 devices, 3 failures,</text>
+<text x="72.0" y="260.0" font-size="92" font-weight="700" fill="#152a35" text-anchor="start">all recovered by the agent</text>
+<text x="72.0" y="338.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">One chip, screened overnight on 18 Sep 2026 (00:41–05:19 JST), row by row</text>
+<text x="72.0" y="508.0" font-size="120" font-weight="700" fill="#152a35" text-anchor="start">48/48</text>
+<text x="72.0" y="562.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">devices completed</text>
+<text x="557.3" y="508.0" font-size="120" font-weight="700" fill="#152a35" text-anchor="start">240</text>
+<text x="557.3" y="562.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">images accepted,</text>
+<text x="557.3" y="608.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">5 per device</text>
+<text x="1042.7" y="508.0" font-size="120" font-weight="700" fill="#152a35" text-anchor="start">0</text>
+<text x="1042.7" y="562.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">finished devices</text>
+<text x="1042.7" y="608.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">redone after a repair</text>
+<path d="M72 648 H1528" stroke="#dce3e6" stroke-width="2"/>
+<path d="M66 706 H818 V918 H602 V1026 H66 Z" fill="#f3f6f6" stroke="#526572" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="72" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="712" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="820" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="928" width="92" height="92" rx="8" fill="#c86632"/>
+<path d="M669.0 956.9 A22 22 0 1 1 647.0 956.9" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/><path d="M640.2 969.2 L647.0 956.9 L633.0 956.7" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="720" y="928" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="1036" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="1036" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="1036" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="1036" width="92" height="92" rx="8" fill="#c86632"/>
+<path d="M453.0 1064.9 A22 22 0 1 1 431.0 1064.9" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/><path d="M424.2 1077.2 L431.0 1064.9 L417.0 1064.7" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="504" y="1036" width="92" height="92" rx="8" fill="#c86632"/>
+<path d="M561.0 1064.9 A22 22 0 1 1 539.0 1064.9" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/><path d="M532.2 1077.2 L539.0 1064.9 L525.0 1064.7" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="612" y="1036" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="1036" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="1144" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="1252" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="72" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="180" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="288" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="396" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="504" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="612" y="1360" width="92" height="92" rx="8" fill="#176b66"/>
+<rect x="720" y="1360" width="92" height="92" rx="8" fill="#ffffff" stroke="#dce3e6" stroke-width="3"/>
+<rect x="607" y="923" width="102" height="102" rx="12" fill="none" stroke="#152a35" stroke-width="5"/>
+<path d="M658.0 1025 V1028.0 H868" fill="none" stroke="#152a35" stroke-width="3" stroke-linecap="round"/>
+<circle cx="868" cy="1028.0" r="6" fill="#152a35"/>
+<text x="884.0" y="998.0" font-size="72" font-weight="700" fill="#152a35" text-anchor="start">02:42</text>
+<path d="M1086.0 973.0 H1146.0" stroke="#152a35" stroke-width="6" stroke-linecap="round"/><path d="M1130.0 956.0 L1148.0 973.0 L1130.0 990.0" fill="none" stroke="#152a35" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1170.0" y="998.0" font-size="72" font-weight="700" fill="#152a35" text-anchor="start">02:59</text>
+<text x="884.0" y="1080.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">Image-save error. The agent</text>
+<text x="884.0" y="1124.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">repaired the software and</text>
+<text x="884.0" y="1168.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">resumed this device.</text>
+<path d="M818 812.0 H868" stroke="#526572" stroke-width="2.5"/>
+<circle cx="868" cy="812.0" r="5" fill="#526572"/>
+<text x="884.0" y="798.0" font-size="38" font-weight="700" fill="#152a35" text-anchor="start">19 earlier devices:</text>
+<text x="884.0" y="844.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">records left unchanged</text>
+<text x="884.0" y="1264.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">The other 2 failed while being</text>
+<text x="884.0" y="1308.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">found and focused; the agent</text>
+<text x="884.0" y="1352.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">retried them after the last row,</text>
+<text x="884.0" y="1396.0" font-size="38" font-weight="400" fill="#526572" text-anchor="start">05:08–05:19.</text>
+<rect x="72" y="1482" width="44" height="44" rx="6" fill="#176b66"/>
+<text x="132.0" y="1516.0" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">Completed</text>
+<rect x="379.16" y="1482" width="44" height="44" rx="6" fill="#c86632"/>
+<path d="M406.7 1495.5 A11 11 0 1 1 395.7 1495.5" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/><path d="M388.9 1507.7 L395.7 1495.5 L381.7 1495.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="439.2" y="1516.0" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">Failed, then recovered by the agent</text>
+<rect x="1105.32625" y="1482" width="44" height="44" rx="6" fill="#ffffff" stroke="#dce3e6" stroke-width="3"/>
+<text x="1165.3" y="1516.0" font-size="36" font-weight="400" fill="#152a35" text-anchor="start">No device</text>
+<text x="72.0" y="1598.0" font-size="32" font-weight="400" fill="#526572" text-anchor="start">Overnight timeline, JST: each tick is one device finishing;</text>
+<circle cx="941.39125" cy="1587" r="9" fill="#ffffff" stroke="#c86632" stroke-width="4"/>
+<text x="961.4" y="1598.0" font-size="32" font-weight="400" fill="#526572" text-anchor="start">marks a failure</text>
+<path d="M72 1716 H1528" stroke="#dce3e6" stroke-width="3"/>
+<path d="M176.0 1716 V1730" stroke="#526572" stroke-width="2"/>
+<text x="176.0" y="1768.0" font-size="30" font-weight="400" fill="#526572" text-anchor="middle">01:00</text>
+<path d="M488.0 1716 V1730" stroke="#526572" stroke-width="2"/>
+<text x="488.0" y="1768.0" font-size="30" font-weight="400" fill="#526572" text-anchor="middle">02:00</text>
+<path d="M800.0 1716 V1730" stroke="#526572" stroke-width="2"/>
+<text x="800.0" y="1768.0" font-size="30" font-weight="400" fill="#526572" text-anchor="middle">03:00</text>
+<path d="M1112.0 1716 V1730" stroke="#526572" stroke-width="2"/>
+<text x="1112.0" y="1768.0" font-size="30" font-weight="400" fill="#526572" text-anchor="middle">04:00</text>
+<path d="M1424.0 1716 V1730" stroke="#526572" stroke-width="2"/>
+<text x="1424.0" y="1768.0" font-size="30" font-weight="400" fill="#526572" text-anchor="middle">05:00</text>
+<rect x="92.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="282.7" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="308.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="328.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="348.3" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="369.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="391.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="413.3" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="434.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="457.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="480.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="504.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="530.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="555.7" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="582.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="608.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="636.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="663.3" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="691.9" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="793.4" y="1664" width="5" height="52" rx="2" fill="#c86632"/>
+<rect x="812.9" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="832.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="852.6" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="872.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="951.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="972.7" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="993.2" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1014.8" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1035.3" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1055.6" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1083.6" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1109.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1134.6" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1155.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1176.9" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1198.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1220.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1243.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1264.9" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1287.0" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1308.9" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1330.5" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1354.4" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1385.3" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1414.1" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1440.6" y="1676" width="5" height="40" rx="2" fill="#176b66"/>
+<rect x="1487.4" y="1664" width="5" height="52" rx="2" fill="#c86632"/>
+<rect x="1520.4" y="1664" width="5" height="52" rx="2" fill="#c86632"/>
+<circle cx="710.8" cy="1716" r="9" fill="#ffffff" stroke="#c86632" stroke-width="4"/>
+<circle cx="894.8" cy="1716" r="9" fill="#ffffff" stroke="#c86632" stroke-width="4"/>
+<circle cx="924.6" cy="1716" r="9" fill="#ffffff" stroke="#c86632" stroke-width="4"/>
+<text x="180.8" y="1650.0" font-size="28" font-weight="400" fill="#526572" text-anchor="middle">saving fix</text>
+<text x="744.1" y="1650.0" font-size="28" font-weight="400" fill="#526572" text-anchor="middle">repair</text>
+<text x="1483.2" y="1650.0" font-size="28" font-weight="400" fill="#526572" text-anchor="middle">retries</text>
+</g>
+</svg>

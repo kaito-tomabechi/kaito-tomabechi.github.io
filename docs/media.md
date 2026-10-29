@@ -1,0 +1,93 @@
+# Media provenance and reading guide
+
+This page distinguishes recordings, measured-data replays, processed scientific images and conceptual illustrations. The examples are separate experiments unless stated otherwise.
+
+## Opening videos
+
+The page opens with three videos:
+
+1. a 97-second 3D concept video of AI orchestration;
+2. a 57-second screen recording of real operation;
+3. a 26-second AutoCAD screen capture of automated layout output.
+
+Each video is described below.
+
+## Instrument concept
+
+The opening video is the author-approved Claude variant v7: the v4 concept with a longer closing view of the named parts, followed by two other use cases of the same AI layer. It runs 97.20 seconds at 1920×1080 and 24 fps, with H.264 video and AAC stereo audio, and has original synthesized music and sound effects. On the page it plays muted when scrolled into view; sound starts only when the reader turns it on.
+
+The video shows AI orchestration of the polarizer, analyzer, XYZ stage, coil current and camera. It follows this with an illustrative save failure, an LLM code correction, testing, and resumption with completed positions retained. The XYZ stage moves the optical head while the sample and magnet stay fixed; the field reverses along the sample normal.
+
+| Time | Concept scene |
+|---|---|
+| 0–9 s | Reflective MOKE structure and orchestrator commands |
+| 9–17.5 s | Software-set polarizer/analyzer angles and acquisition |
+| 17.5–25 s | Optical-head translation, autofocus, acquisition and saving |
+| 25–40.5 s | Illustrative save failure, LLM patch, test and resume |
+| 40.5–46.5 s | Positive/zero/negative field and image difference |
+| 46.5–52.9 s | Whole-run orchestration map, then all parts named |
+| 52.9–70.8 s | Other use case 1, circuit design and test: DC supply, FPGA board (programmed by the orchestrator), breadboards and oscilloscope |
+| 70.8–88.6 s | Other use case 2, high-frequency electrical measurement: four-terminal probes, multimeter and pulse generator, read–pulse–read repeated |
+| 88.6–97.2 s | Summary: one AI layer across the three instrument systems |
+
+The video is a conceptual illustration, separate from the September 18 evidence reconstruction. Its geometry, motion, sequence, failure and code are illustrative. The displayed patch is invented explanatory code, not the production pipeline or the actual repair. On screen it is labelled “3D CONCEPTUAL ILLUSTRATION”, “Illustrative sequence” and “Illustrative code · not the production pipeline”. The circuit drawn in the film, the oscilloscope check against the design and the instrument readings in the two other use cases are illustrative, not the real circuit or measured values. The companion poster is the frame at 6.4 seconds.
+
+On the page, the active chapter is highlighted. On small screens, the current scene headline is repeated as text below the video.
+
+## Real-operation video
+
+The 57-second video is edited from a screen recording of the real microscope during a continuous measurement on 14 August 2026. It shows two example devices from that run. For each device the software moves the stage, focuses coarsely, detects and centres the device, refocuses and acquires images, including MOKE difference images. The step names come from the instrument's status display.
+
+| Time | Content |
+|---|---|
+| 0–12.4 s | Device 1: move, coarse focus, detect and centre, final autofocus, image |
+| 12.4–27.6 s | Device 2, the same steps, and the move to the next device |
+| 27.6–37.4 s | One archived autofocus run (a separate run, the same scan as on the page): recorded scores and three unprocessed JPEGs |
+| 37.4–46.8 s | Field steps: an illustration with no data |
+| 46.8–57.1 s | Results card from other runs, with the same numbers as the page |
+
+- Each shot plays at a uniform ×3–×8 (frames are dropped, never interpolated or reordered), and parts of each acquisition are cut.
+- The MOKE images are shown for about 3 seconds per device, without noise filtering.
+- The 3D inset is an illustration of a generic chip, not the real sample, layout or scale.
+- The music and sound effects were synthesized for this project. On the page the video plays muted until the reader turns the sound on.
+
+## CAD output
+
+The CAD video is a real screen capture of AutoCAD 2026. Device and electrode geometry, and the placement and routing functions, come from the author's existing layout code; the drawing calls were adapted for the recording. One reusable Hall-bar design, with pads and routed electrodes, is generated line by line across a 6 × 10 layout of 60 cells.
+
+Positions and rotations are demonstration data. The on-screen note “Based on experimental results” describes what the placement step accepts as input.
+
+The 25.9-second duration is edited playback, not processing time. The music is an original synthesized track. No research drawing or source code is released.
+
+
+## Matched autofocus example
+
+The score curve and three photographs come from one archived eleven-position scan (2 µm steps from 18 µm below to 6 µm above the selected position; no positions were recorded at −4 µm or +4 µm). Each position has its own saved frame, and the selected position has three confirmation frames. The images sit at −6 µm, 0 µm (selected) and +6 µm, and the chart marks these three positions. The JPEG files are unchanged copies of the archived autofocus images; sample identifiers and original paths are omitted.
+
+The displayed selected image is the first confirmation frame. Image brightness and exposure were not standardized for a quantitative optical-quality benchmark.
+
+## Film orientation crops
+
+Twenty-one native 360×360 crops come from existing Film Analysis output and share one colour mapping. They are plain crops: no outline, score, label or scale bar. Pixel content and colours are unchanged.
+
+The source estimates local crystallographic orientation from a multi-angle polarization series. It is an optical orientation estimate, not a diffraction measurement. They are shown in a fixed grid order, without a ranking or quantitative score. Absolute-angle legends, the full-sample arrangement, specimen names, placement footprints and quantitative rankings are omitted.
+
+The page links these maps to device layout at the workflow level: positions and rotations chosen from such maps can be passed to the automated CAD layout. The CAD recording uses a demonstration layout, and no research placement is published.
+
+## Recovery reconstruction
+
+The page's recovery figure reconstructs documented events from a September 2026 screening campaign. Nineteen completed cells survive the interruption, and the interrupted cell's five images are acquired after the repair.
+
+The two clock times are the recorded error (02:42:51) and the completion of those five images (02:59:13). The 16 minutes 22 seconds between them include diagnosis, repair, testing, restart and acquisition. The later campaign outcome includes further interventions, which are recorded separately.
+
+The figure is rebuilt from records; there is no recording of the agent interface.
+
+## Circuit bench
+
+The left image is the author's own photograph of a circuit bench, wired by hand from a digital twin; the Experiment Agent drives its FPGA, power supply and oscilloscope. The blurred patch is the board's network label. The right image is the concept film's illustration of such a bench (about 69 s), cropped to the scene; its parts layout and readings are not those of the real circuit.
+
+## Architecture, time comparison and weekly hours
+
+The architecture figure is a schematic drawn from the author's system description, in the layout of his MITOU proposal: the researcher gives a goal; the Development, Experiment and Analysis agents act on the control PC, the measurement pipeline (through LabVIEW or Python) and the report; the pipeline drives the instrument. Its four instrument pictures are cropped 3D renders from the concept video, not photographs of the laboratory apparatus. The examples on the page come from separate runs. The time comparison uses the author's confirmed production thin-film result and separates operator time from machine elapsed time.
+
+The weekly-hours chart sums all logged automated runs (late May to 28 October 2026) by Monday-start week in Japan time: the main measurement run log (978.3 hours), AI-agent runs (15.4 hours) and device-screening runs (19.2 hours), about 1,013 hours in total. A run that crosses a week boundary is split between the two weeks, and a 0.18-hour overlap between two runs is counted once.

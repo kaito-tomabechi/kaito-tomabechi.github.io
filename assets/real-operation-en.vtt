@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.433
+Device 1 of 2: move to the device, coarse focus.
+
+00:00:02.433 --> 00:00:08.033
+The software detects and centres the device, then runs the final autofocus. Green guides: detection overlay.
+
+00:00:08.033 --> 00:00:12.367
+Images are acquired; most of this step is skipped.
+
+00:00:12.367 --> 00:00:15.933
+Device 2 of 2: the stage moves on; a later device in the same run.
+
+00:00:15.933 --> 00:00:21.867
+Detect and centre, then the final autofocus.
+
+00:00:21.867 --> 00:00:26.233
+Acquisition, mostly skipped.
+
+00:00:26.233 --> 00:00:27.567
+The run moves on.
+
+00:00:27.567 --> 00:00:37.367
+Autofocus from one archived run: starting 12 µm from focus, the software scores 11 planes and selects the sharpest. Recorded scores and original images.
+
+00:00:37.367 --> 00:00:46.767
+Illustration: the software sets each field step and takes one image at each step. No measured data.
+
+00:00:46.767 --> 00:00:51.402
+One thin-film series: 40 hours by hand became 2 minutes of operator input (then 3 hours unattended): 1,200 times less hands-on time.
+
+00:00:51.402 --> 00:00:57.067
+Self-driving lab totals: 315,000+ images acquired automatically (March–October 2026) and 1,000+ hours of logged automated runs (May–October 2026).

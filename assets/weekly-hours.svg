@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="140" viewBox="0 0 1120 140" role="img" aria-labelledby="wh-t wh-d">
+<title id="wh-t">All logged automated runs: hours per week, May to October 2026</title>
+<desc id="wh-d">Bar chart of all logged automated runs: hours in each Monday-start week (Japan time), from the week of 25 May to the week of 26 October 2026: 23 weeks, about 1,013 hours in total. Gridlines mark 40 and 80 hours per week. From June to October most weeks logged 20 to 85 hours; the busiest week, starting 7 September, logged 85 hours. The three weeks from 10 August were quiet, under 10 hours each. A bracket marks a single 66-hour unattended run from 18 to 20 July, split between the weeks of 13 July and 20 July.</desc>
+<style>text{font-family:Inter,-apple-system,'Segoe UI',sans-serif;font-size:12px;fill:#526572}.a{paint-order:stroke;stroke:#fff;stroke-width:3px;stroke-linejoin:round}@media(max-width:600px){text{font-size:26px}.y{display:none}}</style>
+<rect width="1120" height="140" fill="#fff"/>
+<path d="M36 68.0H1116M36 28.0H1116" stroke="#e6ecee" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+<path d="M36 108H1116" stroke="#dce3e6" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+<text class="y" x="30" y="68.0" text-anchor="end" dominant-baseline="central">40</text>
+<text class="y" x="30" y="28.0" text-anchor="end" dominant-baseline="central">80</text>
+<text class="y" x="2" y="3" dominant-baseline="hanging">h/week</text>
+<text x="59.5" y="113" text-anchor="middle" dominant-baseline="hanging">May</text>
+<text x="183.6" y="113" text-anchor="middle" dominant-baseline="hanging">Jun</text>
+<text x="388.2" y="113" text-anchor="middle" dominant-baseline="hanging">Jul</text>
+<text x="596.1" y="113" text-anchor="middle" dominant-baseline="hanging">Aug</text>
+<text x="800.7" y="113" text-anchor="middle" dominant-baseline="hanging">Sep</text>
+<text x="1005.3" y="113" text-anchor="middle" dominant-baseline="hanging">Oct</text>
+<path d="M83.0 108v4M284.2 108v4M492.1 108v4M700.1 108v4M901.3 108v4M1109.3 108v4" stroke="#dce3e6" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+<g fill="#9cc3bd">
+<path d="M48.5 108V74.3Q48.5 72.3 50.5 72.3H68.5Q70.5 72.3 70.5 74.3V108Z"><title>Week of 25 May: 35.7 h</title></path>
+<path d="M95.4 108V94.7Q95.4 92.7 97.4 92.7H115.4Q117.4 92.7 117.4 94.7V108Z"><title>Week of 1 Jun: 15.3 h</title></path>
+<path d="M142.4 108V87.0Q142.4 85.0 144.4 85.0H162.4Q164.4 85.0 164.4 87.0V108Z"><title>Week of 8 Jun: 23.0 h</title></path>
+<path d="M189.3 108V41.2Q189.3 39.2 191.3 39.2H209.3Q211.3 39.2 211.3 41.2V108Z"><title>Week of 15 Jun: 68.8 h</title></path>
+<path d="M236.3 108V58.8Q236.3 56.8 238.3 56.8H256.3Q258.3 56.8 258.3 58.8V108Z"><title>Week of 22 Jun: 51.2 h</title></path>
+<path d="M283.3 108V79.2Q283.3 77.2 285.3 77.2H303.3Q305.3 77.2 305.3 79.2V108Z"><title>Week of 29 Jun: 30.8 h</title></path>
+<path d="M330.2 108V68.5Q330.2 66.5 332.2 66.5H350.2Q352.2 66.5 352.2 68.5V108Z"><title>Week of 6 Jul: 41.5 h</title></path>
+<path d="M377.2 108V52.3Q377.2 50.3 379.2 50.3H397.2Q399.2 50.3 399.2 52.3V108Z"><title>Week of 13 Jul: 57.7 h</title></path>
+<path d="M424.1 108V89.8Q424.1 87.8 426.1 87.8H444.1Q446.1 87.8 446.1 89.8V108Z"><title>Week of 20 Jul: 20.2 h</title></path>
+<path d="M471.1 108V74.2Q471.1 72.2 473.1 72.2H491.1Q493.1 72.2 493.1 74.2V108Z"><title>Week of 27 Jul: 35.8 h</title></path>
+<path d="M518.0 108V57.6Q518.0 55.6 520.0 55.6H538.0Q540.0 55.6 540.0 57.6V108Z"><title>Week of 3 Aug: 52.4 h</title></path>
+<path d="M565.0 108V108.0Q565.0 107.8 565.2 107.8H586.8Q587.0 107.8 587.0 108.0V108Z"><title>Week of 10 Aug: 0.2 h</title></path>
+<path d="M612.0 108V100.9Q612.0 98.9 614.0 98.9H632.0Q634.0 98.9 634.0 100.9V108Z"><title>Week of 17 Aug: 9.1 h</title></path>
+<path d="M658.9 108V107.4Q658.9 105.4 660.9 105.4H678.9Q680.9 105.4 680.9 107.4V108Z"><title>Week of 24 Aug: 2.6 h</title></path>
+<path d="M705.9 108V43.2Q705.9 41.2 707.9 41.2H725.9Q727.9 41.2 727.9 43.2V108Z"><title>Week of 31 Aug: 66.8 h</title></path>
+<path d="M752.8 108V25.1Q752.8 23.1 754.8 23.1H772.8Q774.8 23.1 774.8 25.1V108Z"><title>Week of 7 Sep: 84.9 h</title></path>
+<path d="M799.8 108V61.6Q799.8 59.6 801.8 59.6H819.8Q821.8 59.6 821.8 61.6V108Z"><title>Week of 14 Sep: 48.4 h</title></path>
+<path d="M846.7 108V30.4Q846.7 28.4 848.7 28.4H866.7Q868.7 28.4 868.7 30.4V108Z"><title>Week of 21 Sep: 79.6 h</title></path>
+<path d="M893.7 108V45.3Q893.7 43.3 895.7 43.3H913.7Q915.7 43.3 915.7 45.3V108Z"><title>Week of 28 Sep: 64.7 h</title></path>
+<path d="M940.7 108V35.9Q940.7 33.9 942.7 33.9H960.7Q962.7 33.9 962.7 35.9V108Z"><title>Week of 5 Oct: 74.1 h</title></path>
+<path d="M987.6 108V52.0Q987.6 50.0 989.6 50.0H1007.6Q1009.6 50.0 1009.6 52.0V108Z"><title>Week of 12 Oct: 58.0 h</title></path>
+<path d="M1034.6 108V47.7Q1034.6 45.7 1036.6 45.7H1054.6Q1056.6 45.7 1056.6 47.7V108Z"><title>Week of 19 Oct: 62.3 h</title></path>
+<path d="M1081.5 108V79.9Q1081.5 77.9 1083.5 77.9H1101.5Q1103.5 77.9 1103.5 79.9V108Z"><title>Week of 26 Oct: 30.1 h</title></path>
+</g>
+<path d="M377.2 48.3V44.3H446.1V48.3" stroke="#526572" stroke-width="1" fill="none"/>
+<text class="a" x="411.7" y="40.3" text-anchor="middle" dominant-baseline="text-after-edge">66-hour run</text>
+</svg>

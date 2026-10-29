@@ -9,7 +9,7 @@
 - A 97-second 3D illustration of AI orchestration, an illustrative repair sequence and two other use cases of the same AI layer.
 - A 57-second edited video: a screen recording of two example devices from one run, focused and imaged by software including MOKE images (×3–×8; most of each acquisition and the time between the devices cut), then a separate archived autofocus run, a field-step illustration and results from other runs.
 
-The recordings and figures come from separate runs. None is presented as one uninterrupted run. The material identity and selected experimental details are withheld.
+The recordings and figures come from separate runs. None is presented as one uninterrupted run. Sample identities and selected experimental details are withheld.
 
 ## Impact
 
@@ -62,7 +62,7 @@ What the records show:
 
 **October 27, long acquisition.** A readback failure interrupted acquisition. The observing agent repaired the restart logic, resumed through the normal interface and completed the pending conditions without redoing finished work.
 
-Only part of the September–October 2026 runs were recorded in detail. Those records document four repairs that meet a strict definition: the agent diagnosed a failure during a physical run, deployed a code fix, resumed through the normal interface and the run completed (17 September, 18 September twice, 27 October): an autofocus step blocked at a repeat boundary, data saved without its numeric values (the agent stopped the run itself), the preview-image write failure described above, and a readback gap followed by a stuck restart. These cases show LLM-mediated diagnosis, software correction and resumption, beyond fixed-supervisor retries. They do not guarantee recovery from every failure. The portfolio does not expose actual code patches, internal paths, material identities or prompts. The 3D concept uses an invented illustrative patch, not the actual September correction.
+Only part of the September–October 2026 runs were recorded in detail. Those records document four repairs that meet a strict definition: the agent diagnosed a failure during a physical run, deployed a code fix, resumed through the normal interface and the run completed (17 September, 18 September twice, 27 October): an autofocus step blocked at a repeat boundary, data saved without its numeric values (the agent stopped the run itself), the preview-image write failure described above, and a readback gap followed by a stuck restart. These cases show LLM-mediated diagnosis, software correction and resumption, beyond fixed-supervisor retries. They do not guarantee recovery from every failure. The portfolio does not expose actual code patches, internal paths, sample identities or prompts. The 3D concept uses an invented illustrative patch, not the actual September correction.
 
 ## Focus
 

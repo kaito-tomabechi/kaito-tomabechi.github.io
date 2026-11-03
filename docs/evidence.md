@@ -17,7 +17,7 @@ The author reconfirmed the production thin-film comparison: 40 hours of manual w
 
 ![40 hours of manual work versus two minutes of input and three hours unattended](../assets/time-comparison-v2.svg)
 
-The platform is now a core part of the group's research infrastructure, used daily by five members. The author reports that its exhaustive screening has produced several qualitatively new findings; a paper is in preparation. The university hired the author as a technical assistant for this work in March 2026. The fellowships, selections and awards listed on the page, other than the Qiskit Fall Fest prize, were given for this work.
+The platform is now a core part of the group's research infrastructure, used daily by five members. In the author's master's research on spin-torque phenomena in the topological antiferromagnet Mn₃Sn, the author reports that its exhaustive screening has produced several qualitatively new findings; a paper is in preparation. The fellowships, selections and awards listed on the page, other than the Qiskit Fall Fest prize, were given for this work.
 
 Cumulative use, from the laboratory's run records (checked 29 October 2026):
 - **Images:** 315,000+ instrument images saved by automated acquisition, March–October 2026. Copies on two drives are counted once; derived analysis outputs and backups are excluded. The sessions before late May have no run log; the author confirms they were automated.

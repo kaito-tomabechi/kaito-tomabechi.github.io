@@ -23,7 +23,7 @@ The concept video illustrates the system with original music and sound effects; 
 
 **Production thin-film result: 40 hours of manual work → 2 minutes of operator input + 3 hours of unattended measurement.** Operator time and machine time are counted separately.
 
-**In routine use: 315,000+ images acquired automatically (March–October 2026), 124 devices measured on 14 samples, 1,000+ hours of logged automated runs, and a longest single unattended run of 66 hours.** Detailed records from part of the runs document four agent repairs during physical runs (September–October 2026). The platform is now a core part of the group's research infrastructure, used daily by five members; its exhaustive screening has produced several qualitatively new findings (paper in preparation), and the university hired me as a technical assistant for this work in March 2026.
+**In routine use: 315,000+ images acquired automatically (March–October 2026), 124 devices measured on 14 samples, 1,000+ hours of logged automated runs, and a longest single unattended run of 66 hours.** Detailed records from part of the runs document four agent repairs during physical runs (September–October 2026). The platform is now a core part of the group's research infrastructure, used daily by five members; in my master's research on spin-torque phenomena in the topological antiferromagnet Mn₃Sn, its exhaustive screening has produced several qualitatively new findings, and a paper is in preparation.
 
 ## Inspect the work
 
